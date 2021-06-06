@@ -17,8 +17,7 @@ Linear Regression is implemented to identify the relationship between profit of 
  ┣ 📂Dataset
  ┃ ┗ 📜ex1data1.txt
  ┣ 📂Documents
- ┃ ┣ 📜Assignment_1 Linear Regression.docx
- ┃ ┗ 📜~$signment_1 Linear Regression.docx
+ ┃ ┗ 📜Assignment_1 Linear Regression.docx
  ┣ 📜A1_Q1_Part_1.ipynb
  ┗ 📜README.md
  </pre>
