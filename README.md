@@ -8,6 +8,8 @@ Linear Regression is implemented to identify the relationship between profit of 
 
 - Implemented the cost function shown in the Fig. below.
 
+![costFunction](Resources/cost function.PNG)
+
 - Implemented gradient descent to optimize the cost. No ML frameworks or libraries have been used.
 
 # Directory Structure
