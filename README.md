@@ -17,7 +17,7 @@ Linear Regression is implemented to identify the relationship between profit of 
 ## Dataset Visualization
 
 <p align="center">
-<img src="/Resources/datasetVisualization.PNG">
+<img src="/Resources/dataset-visualization.PNG">
 </p>
 
 # Directory Structure
