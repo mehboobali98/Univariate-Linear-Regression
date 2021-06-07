@@ -4,7 +4,7 @@
 
 Linear Regression is implemented to identify the relationship between profit of a bakery and population of different cities. The main objective is to find the next city in which a new outlet should be opened.
 
-## Methodology
+## Implementation
 
 - Implemented the cost function shown in the Fig. below.
 
@@ -13,6 +13,12 @@ Linear Regression is implemented to identify the relationship between profit of 
 </p>
 
 - Implemented gradient descent to optimize the cost. No ML frameworks or libraries have been used.
+
+## Dataset Visualization
+
+<p align="center">
+<img src="/Resources/datasetVisualization.PNG">
+</p>
 
 # Directory Structure
 
