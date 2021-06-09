@@ -34,6 +34,10 @@ Linear Regression is implemented to identify the relationship between profit of 
  ┃ ┗ 📜ex1data1.txt
  ┣ 📂Documents
  ┃ ┗ 📜Assignment_1 Linear Regression.docx
+ ┣ 📂Resources
+ ┃ ┣ 📜best-fit-line.PNG
+ ┃ ┣ 📜costFunction.PNG
+ ┃ ┗ 📜dataset-visualization.PNG
  ┣ 📜A1_Q1_Part_1.ipynb
  ┗ 📜README.md
  </pre>
