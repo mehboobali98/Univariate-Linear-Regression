@@ -23,7 +23,7 @@ Linear Regression is implemented to identify the relationship between profit of 
 ## Best Fit Line
 
 <p align="center">
-<img src="/Resources/bestFitLine.PNG">
+<img src="/Resources/bestFitLine.png">
 </p>
 
 # Directory Structure
